@@ -1,5 +1,8 @@
 # organize-photos
 
+> **AI Disclaimer**
+> This script and its documentation were developed collaboratively with AI assistance. The metadata parsing and renaming logic have been tested for stability, but behavior may vary across different cameras, file formats, and timezone or filesystem configurations. Since the script moves and renames files in place, please review it and test on a copy of your photos before running it against an original library.
+
 Organizes photos and videos in a directory by year based on their metadata. Files are moved into year-based subdirectories and renamed using their creation/modification timestamp.
 
 **Before:**
